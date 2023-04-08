@@ -1,0 +1,33 @@
+img {
+    width: 100%;
+}
+
+.volks-img {
+    width: 80px;
+}
+.nav-link{
+    color: navy;
+    opacity: 1;
+    font-weight: 900;
+}
+.footer{
+    background-color: navy;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 50px;
+    color: #dbdbdb;
+}
+.socio-link{
+    color: rgb(230, 223, 223);
+    margin: 10px;
+    font-size: 2rem;
+}
+.zoom:hover{
+    transform: scale(1.2);
+}
+.zoom{
+    transition: 2s;
+}
+.col-md-5{
+    overflow: hidden;
+}
