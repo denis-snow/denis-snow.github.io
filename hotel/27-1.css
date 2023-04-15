@@ -1,0 +1,37 @@
+.big-photo {
+    background-image: url(banner.jpg);
+    height: 400px;
+    border-style: cover;
+    background-position: 50% 50%;
+    color: aliceblue;
+}
+
+img {
+    width: 100%;
+}
+.row{
+    margin: 30px 0;
+}
+.hut{
+    background-image:linear-gradient(rgba(211, 255, 202, 0.486), rgba(4, 4, 133, 0.63)), url(the-hut-bg.png);
+    height: 300px;
+    border-style: cover;
+    background-position: 50% 50%;
+    margin: 50px 0;
+}
+.area{
+    background-image:linear-gradient(rgba(255, 255, 255, 0.486), rgba(63, 109, 73, 0.521)), url(the-area.png);
+    height: 300px;
+    border-style: cover;
+    background-position: 50% 50%;
+    margin: 50px 0;
+}
+footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: aliceblue;
+    background-color: #5B6460;;
+}
+body{
+    font-family: 'Exo 2', sans-serif;
+}
