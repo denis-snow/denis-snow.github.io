@@ -1,0 +1,31 @@
+img {
+    width: 100%;
+}
+
+.row {
+    margin: 50px 0;
+    align-items: center;
+}
+html{
+    scroll-behavior: smooth;
+}
+.my-bg,
+.my-bg-2 {
+    border-radius: 20px;
+    background-color: #b3b1b1;
+    padding: 50px 0;
+    margin-bottom: 50px;
+}
+
+.my-bg {
+    text-align: center;
+}
+.navbar{
+    font-family: 'Press Start 2P', cursive;
+}
+.gg{
+    border-radius: 50%;
+}
+.fonts{
+    font-family: 'Philosopher', sans-serif;
+}
