@@ -1,0 +1,38 @@
+img{
+    width: 100%;
+}
+.card-1 img{
+    width: 40%;
+}
+.card-1{
+    padding: 20px;
+    text-align: center;
+}
+.hot-it-works{
+    background: linear-gradient(to bottom, lightblue, white);
+    padding: 50px 0;
+}
+.card img{
+    width: 40%;
+}
+.card-2{
+    text-align: center;
+    border: 1px solid blue;
+    padding: 15px;
+    height: 100%;
+}
+.covid{
+    background: linear-gradient(to right bottom, rgb(164, 139, 211), rgb(53, 55, 148));
+    border-radius: 20px;
+    padding: 50px 0;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.list-rooms{
+    list-style-image: url(list-img.png)
+}
+.house{
+    background: linear-gradient(to right, rgb(60, 173, 211), rgb(227, 155, 242));
+    border-radius: 20px;
+    padding: 30px 0;
+}
